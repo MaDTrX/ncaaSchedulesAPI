@@ -1,0 +1,3062 @@
+[
+    {
+        "teamID": "50000296",
+        "accountName": "Abilene Christian University",
+        "name1": "Abilene Christian",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000309",
+        "accountName": "Alabama A&M University",
+        "name1": "Alabama A&M",
+        "name2": "Alabama A&M (in Birmingham, AL)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000311",
+        "accountName": "Alabama State University",
+        "name1": "Alabama State",
+        "name2": "Alabama State (in Atlanta, GA)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000307",
+        "accountName": "Alcorn State University",
+        "name1": "Alcorn State",
+        "name2": "Alcorn",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000331",
+        "accountName": "Appalachian State University",
+        "name1": "Appalachian State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000255",
+        "accountName": "Arizona State University",
+        "name1": "Arizona State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000327",
+        "accountName": "Arkansas State University",
+        "name1": "Arkansas State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Assumption Univeristy",
+        "name1": "Assumption",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000279",
+        "accountName": "Auburn University",
+        "name1": "Auburn",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000242",
+        "accountName": "Austin Peay State University",
+        "name1": "Austin Peay",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000184",
+        "accountName": "Ball State University",
+        "name1": "Ball State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Barton College",
+        "name1": "Barton",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000108",
+        "accountName": "Baylor University",
+        "name1": "Baylor",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000192",
+        "accountName": "Bethune-Cookman University",
+        "name1": "Bethune-Cookman",
+        "name2": "Bethune-Cookman (in Orlando, FL)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000215",
+        "accountName": "Boise State University",
+        "name1": "Boise State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000035",
+        "accountName": "Boston College",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Bowie State University",
+        "name1": "Bowie State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000181",
+        "accountName": "Bowling Green State University",
+        "name1": "Bowling Green",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000336",
+        "accountName": "Brigham Young University",
+        "name1": "BYU",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Brown University",
+        "name1": "Brown",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000231",
+        "accountName": "Bryant University",
+        "name1": "Bryant",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000257",
+        "accountName": "Bucknell University",
+        "name1": "Bucknell",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Butler University",
+        "name1": "Butler",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000122",
+        "accountName": "California Polytechnic State University",
+        "name1": "Cal Poly",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000213",
+        "accountName": "California State University, Fresno",
+        "name1": "Fresno State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000077",
+        "accountName": "California State University, Sacramento",
+        "name1": "Sacramento State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000090",
+        "accountName": "Campbell University",
+        "name1": "Campbell",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000232",
+        "accountName": "Central Connecticut State University",
+        "name1": "Central Connecticut",
+        "name2": "Central Connecticut State",
+        "name3": "CCSU",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000185",
+        "accountName": "Central Michigan University",
+        "name1": "Central Michigan",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Central Washington University",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Chadron State College",
+        "name1": "Chadron State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000088",
+        "accountName": "Charleston Southern University",
+        "name1": "Charleston Southern",
+        "name2": "Charleston Sou.",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000027",
+        "accountName": "Clemson University",
+        "name1": "Clemson",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000081",
+        "accountName": "Coastal Carolina University",
+        "name1": "Coastal Carolina",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000261",
+        "accountName": "Colgate University",
+        "name1": "Colgate",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000264",
+        "accountName": "College of the Holy Cross",
+        "name1": "Holy Cross",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000217",
+        "accountName": "Colorado State University",
+        "name1": "Colorado State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Columbia University-Barnard College",
+        "name1": "Columbia",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Concordia College, Moorhead",
+        "name1": "Concordia",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Cornell University",
+        "name1": "Cornell",
+        "name2": "Cornell (Homecoming)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Dartmouth College",
+        "name1": "Dartmouth",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Davidson College",
+        "name1": "Davidson",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Delaware State University",
+        "name1": "Delaware State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Delta State University",
+        "name1": "Delta State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Dixie State University",
+        "name1": "Dixie State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Drake University",
+        "name1": "Drake",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000026",
+        "accountName": "Duke University",
+        "name1": "Duke",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000051",
+        "accountName": "Duquesne University",
+        "name1": "Duquesne",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000009",
+        "accountName": "East Carolina University",
+        "name1": "East Carolina",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000282",
+        "accountName": "East Tennessee State University",
+        "name1": "ETSU",
+        "name2": "East Tennessee State",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000239",
+        "accountName": "Eastern Illinois University",
+        "name1": "Eastern Illinois",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000237",
+        "accountName": "Eastern Kentucky University",
+        "name1": "Eastern Kentucky",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000187",
+        "accountName": "Eastern Michigan University",
+        "name1": "Eastern Michigan",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Eastern New Mexico University",
+        "name1": "Eastern New Mexico",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000070",
+        "accountName": "Eastern Washington University",
+        "name1": "Eastern Washington",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Edwards Waters",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Elizabeth City State University",
+        "name1": "Elizabeth City State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000130",
+        "accountName": "Elon University",
+        "name1": "Elon",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000198",
+        "accountName": "Florida A&M University",
+        "name1": "Florida A&M",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000145",
+        "accountName": "Florida Atlantic University",
+        "name1": "Florida Atlantic",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000140",
+        "accountName": "Florida International University",
+        "name1": "FIU",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Florida Memorial University",
+        "name1": "Florida Memorial",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000029",
+        "accountName": "Florida State University",
+        "name1": "Florida State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000053",
+        "accountName": "Fordham University",
+        "name1": "Fordham",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000283",
+        "accountName": "Furman University",
+        "name1": "Furman",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000083",
+        "accountName": "Gardner-Webb University",
+        "name1": "Gardner-Webb",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Georgetown University",
+        "name1": "Georgetown",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000032",
+        "accountName": "Georgia Institute of Technology",
+        "name1": "Georgia Tech",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000329",
+        "accountName": "Georgia Southern University",
+        "name1": "Georgia Southern",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000328",
+        "accountName": "Georgia State University",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000312",
+        "accountName": "Grambling State University",
+        "name1": "Grambling State",
+        "name2": "Grambling",
+        "name3": "Grambling State (in Dallas, TX)",
+        "name4": "Grambling State (in New Orleans, LA)",
+        "name5": "Grambling State (in Shreveport, LA)",
+        "name6": ""
+    },
+    {
+        "teamID": "50000189",
+        "accountName": "Hampton University",
+        "name1": "Hampton",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Harvard University",
+        "name1": "Harvard",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000293",
+        "accountName": "Houston Baptist University",
+        "name1": "HBU",
+        "name2": "Houston Baptist",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000195",
+        "accountName": "Howard University",
+        "name1": "Howard",
+        "name2": "Howard (in East Rutherford, NJ)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000072",
+        "accountName": "Idaho State University",
+        "name1": "Idaho State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "William Jewell College",
+        "name1": "William Jewell",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000204",
+        "accountName": "Illinois State University",
+        "name1": "Illinois State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000207",
+        "accountName": "Indiana State University",
+        "name1": "Indiana State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000093",
+        "accountName": "Indiana University, Bloomington",
+        "name1": "Indiana",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Indiana Wesleyan University",
+        "name1": "Indiana Wesleyan",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000110",
+        "accountName": "Iowa State University",
+        "name1": "Iowa State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000306",
+        "accountName": "Jackson State University",
+        "name1": "Jackson State",
+        "name2": "Jackson State (in Miami Gardens, FL)",
+        "name3": "Jackson State (in Mobile, AL)",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000238",
+        "accountName": "Jacksonville State University",
+        "name1": "Jacksonville State",
+        "name2": "Jacksonville State (in Montgomery, AL)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000126",
+        "accountName": "James Madison University",
+        "name1": "James Madison",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000112",
+        "accountName": "Kansas State University",
+        "name1": "Kansas State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Keiser University",
+        "name1": "Kieser",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000042",
+        "accountName": "Kennesaw State University",
+        "name1": "Kennesaw State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000178",
+        "accountName": "Kent State University",
+        "name1": "Kent State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Kentucky Christian University",
+        "name1": "Kentucky Christian",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000266",
+        "accountName": "Lafayette College",
+        "name1": "Lafayette",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000303",
+        "accountName": "Lamar University",
+        "name1": "Lamar",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Lane College",
+        "name1": "Lane",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Lehigh University",
+        "name1": "Lehigh",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000084",
+        "accountName": "Liberty University",
+        "name1": "Liberty",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Limestone University",
+        "name1": "Limestone",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Lincoln University (California)",
+        "name1": "Lincolln (CA)",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Lincoln University (Pennsylvania)",
+        "name1": "Lincoln (PA)",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Lindenwood University",
+        "name1": "Lindenwood",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000229",
+        "accountName": "Long Island University",
+        "name1": "LIU",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Louisiana Christian University",
+        "name1": "Louisiana Christian",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000269",
+        "accountName": "Louisiana State University",
+        "name1": "LSU",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000137",
+        "accountName": "Louisiana Tech University",
+        "name1": "Louisiana Tech",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Marist College",
+        "name1": "Marist",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Mars Hill University",
+        "name1": "Mars Hill",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000136",
+        "accountName": "Marshall University",
+        "name1": "Marshall",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "McKendree University",
+        "name1": "McKendree",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000299",
+        "accountName": "McNeese State University",
+        "name1": "McNeese",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000284",
+        "accountName": "Mercer University",
+        "name1": "Mercer",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Merrimack College",
+        "name1": "Merrimack",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000182",
+        "accountName": "Miami University (Ohio)",
+        "name1": "Miami (OH)",
+        "name2": "Miami (Ohio)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000097",
+        "accountName": "Michigan State University",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Michigan Technological University",
+        "name1": "Michigan Tech",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000135",
+        "accountName": "Middle Tennessee State University",
+        "name1": "Middle Tennessee",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Miles College",
+        "name1": "Miles",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Mississippi College",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000278",
+        "accountName": "Mississippi State University",
+        "name1": "Mississippi State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Mississippi Valley State University",
+        "name1": "Mississippi Valley State",
+        "name2": "Mississippi Valley",
+        "name3": "MVSU",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000208",
+        "accountName": "Missouri State University",
+        "name1": "Missouri State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Missouri University of Science and Technology",
+        "name1": "Missouri S&T",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000166",
+        "accountName": "Monmouth University",
+        "name1": "Monmouth",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000074",
+        "accountName": "Montana State University-Bozeman",
+        "name1": "Montana State",
+        "name2": "Montana State University",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Morehead State University",
+        "name1": "Morehead State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Morehouse College",
+        "name1": "Morehouse",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000199",
+        "accountName": "Morgan State University",
+        "name1": "Morgan State",
+        "name2": "Morgan St.",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000240",
+        "accountName": "Murray State University",
+        "name1": "Murray State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000344",
+        "accountName": "New Mexico State University",
+        "name1": "New Mexico State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000302",
+        "accountName": "Nicholls State University",
+        "name1": "Nicholls",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000191",
+        "accountName": "Norfolk State University",
+        "name1": "Norfolk State",
+        "name2": "Norfolk St.",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "North American University",
+        "name1": "North American",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000196",
+        "accountName": "North Carolina A&T State University",
+        "name1": "North Carolina A&T",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000197",
+        "accountName": "North Carolina Central University",
+        "name1": "North Carolina Central",
+        "name2": "N.C. Central",
+        "name3": "NC Central",
+        "name4": "NC Central (in Charlotte, NC)",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000033",
+        "accountName": "North Carolina State University",
+        "name1": "NC State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000318",
+        "accountName": "North Dakota State University",
+        "name1": "North Dakota State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "North Greenville University",
+        "name1": "North Greenville",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000079",
+        "accountName": "Northern Arizona University",
+        "name1": "Northern Arizona",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000186",
+        "accountName": "Northern Illinois University",
+        "name1": "Northern Illinois",
+        "name2": "NIU",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000301",
+        "accountName": "Northwestern State University",
+        "name1": "Northwestern State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000100",
+        "accountName": "Northwestern University",
+        "name1": "NorthWestern",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000180",
+        "accountName": "Ohio University",
+        "name1": "Ohio",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000113",
+        "accountName": "Oklahoma State University",
+        "name1": "Oklahoma State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000138",
+        "accountName": "Old Dominion University",
+        "name1": "Old Dominion",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000252",
+        "accountName": "Oregon State University",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000101",
+        "accountName": "Pennsylvania State University",
+        "name1": "Penn State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000076",
+        "accountName": "Portland State University",
+        "name1": "Portland State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000313",
+        "accountName": "Prairie View A&M University",
+        "name1": "Prairie View A&M",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Presbyterian College",
+        "name1": "Presbyterian",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Princeton University",
+        "name1": "Princeton",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000094",
+        "accountName": "Purdue University",
+        "name1": "Purdue",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000146",
+        "accountName": "Rice University",
+        "name1": "Rice",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000230",
+        "accountName": "Robert Morris University",
+        "name1": "Robert Morris",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000103",
+        "accountName": "Rutgers, The State University of New Jersey, New Brunswick",
+        "name1": "Rutgers University",
+        "name2": "Rutgers",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Sacred Heart University",
+        "name1": "Sacred Heart",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Saint Anselm College",
+        "name1": "St. Anselm",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000225",
+        "accountName": "Saint Francis University (Pennsylvania)",
+        "name1": "Saint Francis U",
+        "name2": "Saint Francis",
+        "name3": "Saint Francis (Pa.)",
+        "name4": "Saint Francis U.",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000295",
+        "accountName": "Sam Houston State University",
+        "name1": "Sam Houston",
+        "name2": "Sam Houston (in Houston, TX)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000289",
+        "accountName": "Samford University",
+        "name1": "Samford",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000212",
+        "accountName": "San Diego State University",
+        "name1": "San Diego State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000222",
+        "accountName": "San Jose State University",
+        "name1": "San Jose State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Simon Fraser University",
+        "name1": "Simon Fraser",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000190",
+        "accountName": "South Carolina State University",
+        "name1": "South Carolina State",
+        "name2": "SC State",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000314",
+        "accountName": "South Dakota State University",
+        "name1": "South Dakota State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000243",
+        "accountName": "Southeast Missouri State University",
+        "name1": "Southeast Missouri",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000300",
+        "accountName": "Southeastern Louisiana University",
+        "name1": "Southeastern",
+        "name2": "Southeastern Louisiana",
+        "name3": "SouthEastern La.",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000205",
+        "accountName": "Southern Illinois University at Carbondale",
+        "name1": "Southern Illinois",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000001",
+        "accountName": "Southern Methodist University",
+        "name1": "SMU",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000305",
+        "accountName": "Southern University, Baton Rouge",
+        "name1": "Southern",
+        "name2": "Southern University",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000078",
+        "accountName": "Southern Utah University",
+        "name1": "Southern Utah",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "St. Andrews University",
+        "name1": "St. Andrews",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "St. Thomas University",
+        "name1": "St. Thomas (FL)",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000254",
+        "accountName": "Stanford University",
+        "name1": "Stanford",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000291",
+        "accountName": "Stephen F. Austin State University",
+        "name1": "Stephen F. Austin",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Stetson University",
+        "name1": "Stetson",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Stonehill College",
+        "name1": "Stonehill",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000012",
+        "accountName": "Stony Brook University",
+        "name1": "Stony Brook",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000030",
+        "accountName": "Syracuse University",
+        "name1": "Syracuse",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50001024",
+        "accountName": "Tarleton State University",
+        "name1": "Tarleton State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Taylor University",
+        "name1": "Taylor",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000002",
+        "accountName": "Temple University",
+        "name1": "Temple",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000235",
+        "accountName": "Tennessee State University",
+        "name1": "Tennessee State",
+        "name2": "Tennessee State (in Memphis, TN)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000234",
+        "accountName": "Tennessee Technological University",
+        "name1": "Tennessee Tech",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Texas A&M University-commerce",
+        "name1": "Texas A&M-Commerce",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000270",
+        "accountName": "Texas A&M University, College Station",
+        "name1": "Texas A&M",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000114",
+        "accountName": "Texas Christian University",
+        "name1": "TCU",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000304",
+        "accountName": "Texas Southern University",
+        "name1": "Texas Southern",
+        "name2": "Texas Southern (in Arlington, TX)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000332",
+        "accountName": "Texas State University",
+        "name1": "Texas State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000111",
+        "accountName": "Texas Tech University",
+        "name1": "Texas Tech",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000288",
+        "accountName": "The Citadel, The Military College of South Carolina",
+        "name1": "The Citadel",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000098",
+        "accountName": "The Ohio State University",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000142",
+        "accountName": "The University of North Carolina at Charlotte",
+        "name1": "Charlotte",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000143",
+        "accountName": "The University of Southern Mississippi",
+        "name1": "University of Southern Mississippi",
+        "name2": "Southern Miss",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000005",
+        "accountName": "The University of Tulsa",
+        "name1": "University of Tulsa",
+        "name2": "Tulsa",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "The University of Virginia's College at Wise",
+        "name1": "UVA Wise",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000127",
+        "accountName": "Towson University",
+        "name1": "Towson",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000333",
+        "accountName": "Troy University",
+        "name1": "Troy",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000010",
+        "accountName": "Tulane University",
+        "name1": "Tulane",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Tuskegee University",
+        "name1": "Tuskegee",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000221",
+        "accountName": "U.S. Air Force Academy",
+        "name1": "Air Force",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000263",
+        "accountName": "U.S. Military Academy",
+        "name1": "Army West Point",
+        "name2": "Army",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000258",
+        "accountName": "U.S. Naval Academy",
+        "name1": "Navy",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "University at Albany",
+        "name1": "Albany State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000013",
+        "accountName": "University at Albany",
+        "name1": "UAlbany",
+        "name2": "Albany",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "University at Bufallo",
+        "name1": "Buffalo",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000179",
+        "accountName": "University at Buffalo, the State University of New York",
+        "name1": "Buffalo",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000177",
+        "accountName": "University of Akron",
+        "name1": "Akron",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000275",
+        "accountName": "University of Alabama",
+        "name1": "Alabama",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000134",
+        "accountName": "University of Alabama at Birmingham",
+        "name1": "UAB",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000247",
+        "accountName": "University of Arizona",
+        "name1": "Arizona",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000276",
+        "accountName": "University of Arkansas, Fayetteville",
+        "name1": "Arkansas",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000310",
+        "accountName": "University of Arkansas, Pine Bluff",
+        "name1": "Arkansas-Pine Bluff",
+        "name2": "UAPB",
+        "name3": "UAPB (in St. Louis, MO)",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000251",
+        "accountName": "University of California, Berkeley",
+        "name1": "University of California",
+        "name2": "California",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000118",
+        "accountName": "University of California, Davis",
+        "name1": "UC Davis",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000253",
+        "accountName": "University of California, Los Angeles",
+        "name1": "UCLA",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000298",
+        "accountName": "University of Central Arkansas",
+        "name1": "Central Arkansas",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000008",
+        "accountName": "University of Central Florida",
+        "name1": "UCF",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000004",
+        "accountName": "University of Cincinnati",
+        "name1": "Cincinnati",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000250",
+        "accountName": "University of Colorado, Boulder",
+        "name1": "University of Colorado",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000003",
+        "accountName": "University of Connecticut",
+        "name1": "Connecticut",
+        "name2": "UConn",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "University of Dayton",
+        "name1": "Dayton",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000133",
+        "accountName": "University of Delaware",
+        "name1": "Delaware",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000271",
+        "accountName": "University of Florida",
+        "name1": "Florida",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000272",
+        "accountName": "University of Georgia",
+        "name1": "Georgia",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000115",
+        "accountName": "Hawaii",
+        "name1": "University of Hawaii",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000006",
+        "accountName": "University of Houston",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000073",
+        "accountName": "University of Idaho",
+        "name1": "Idaho",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000102",
+        "accountName": "University of Illinois Urbana-Champaign",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000091",
+        "accountName": "University of Iowa",
+        "name1": "Iowa",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000106",
+        "accountName": "University of Kansas",
+        "name1": "Kansas",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000268",
+        "accountName": "University of Kentucky",
+        "name1": "Kentucky",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "University of La Verne",
+        "name1": "La Verne",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000324",
+        "accountName": "University of Louisiana at Lafayette",
+        "name1": "Louisiana",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000326",
+        "accountName": "University of Louisiana Monroe",
+        "name1": "Louisiana-Monroe",
+        "name2": "ULM",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000024",
+        "accountName": "University of Louisville",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "University of Lynchburg",
+        "name1": "Virginia-Lynchburg",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000017",
+        "accountName": "University of Maine",
+        "name1": "Maine",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000092",
+        "accountName": "University of Maryland, College Park",
+        "name1": "Maryland",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000055",
+        "accountName": "University of Massachusetts, Amherst",
+        "name1": "Massachusetts",
+        "name2": "UMass",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000007",
+        "accountName": "University of Memphis",
+        "name1": "Memphis",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000023",
+        "accountName": "University of Miami (Florida)",
+        "name1": "Miami",
+        "name2": "Miami (FL)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000095",
+        "accountName": "University of Michigan",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000104",
+        "accountName": "University of Minnesota, Twin Cities",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000274",
+        "accountName": "University of Mississippi",
+        "name1": "Ole Miss",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000280",
+        "accountName": "University of Missouri, Columbia",
+        "name1": "Missouri",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000068",
+        "accountName": "University of Montana",
+        "name1": "Montana",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000099",
+        "accountName": "University of Nebraska, Lincoln",
+        "name1": "Nebraska",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000218",
+        "accountName": "University of Nevada, Las Vegas",
+        "name1": "UNLV",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000216",
+        "accountName": "University of Nevada, Reno",
+        "name1": "University of Nevada",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000014",
+        "accountName": "University of New Hampshire",
+        "name1": "New Hampshire",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000214",
+        "accountName": "University of New Mexico",
+        "name1": "New Mexico",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000396",
+        "accountName": "University of North Alabama",
+        "name1": "North Alabama",
+        "name2": "North Alabama (in Madison, AL)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000021",
+        "accountName": "University of North Carolina, Chapel Hill",
+        "name1": "North Carolina",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000071",
+        "accountName": "University of North Dakota",
+        "name1": "North Dakota",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000141",
+        "accountName": "University of North Texas",
+        "name1": "North Texas",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000075",
+        "accountName": "University of Northern Colorado",
+        "name1": "Northern Colorado",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000206",
+        "accountName": "University of Northern Iowa",
+        "name1": "Northern Iowa",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000025",
+        "accountName": "University of Notre Dame",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000105",
+        "accountName": "University of Oklahoma",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000245",
+        "accountName": "University of Oregon",
+        "name1": "Oregon",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "University of Pennsylvania",
+        "name1": "Penn",
+        "name2": "Penn (Family Weekend)",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000028",
+        "accountName": "University of Pittsburgh",
+        "name1": "Pitt",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000050",
+        "accountName": "University of Rhode Island",
+        "name1": "Rhode Island",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000052",
+        "accountName": "University of Richmond",
+        "name1": "Richmond",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "University of San Diego",
+        "name1": "San Diego",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000330",
+        "accountName": "University of South Alabama",
+        "name1": "South Alabama",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000267",
+        "accountName": "University of South Carolina, Columbia",
+        "name1": "South Carolina",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000321",
+        "accountName": "University of South Dakota",
+        "name1": "South Dakota",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000011",
+        "accountName": "University of South Florida",
+        "name1": "USF",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000246",
+        "accountName": "University of Southern California",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "University of St. Thomas (Minnesota)",
+        "name1": "University of St. Thomas",
+        "name2": "St. Thomas",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000281",
+        "accountName": "University of Tennessee at Chattanooga",
+        "name1": "Chattanooga",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000241",
+        "accountName": "University of Tennessee at Martin",
+        "name1": "UT Martin",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000277",
+        "accountName": "University of Tennessee, Knoxville",
+        "name1": "Tennessee",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000109",
+        "accountName": "University of Texas at Austin",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000139",
+        "accountName": "University of Texas at El Paso",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000147",
+        "accountName": "University of Texas at San Antonio",
+        "name1": "UTSA",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000294",
+        "accountName": "University of the Incarnate Word",
+        "name1": "UIW",
+        "name2": "Incarnate Word",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000183",
+        "accountName": "University of Toledo",
+        "name1": "Toledo",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000248",
+        "accountName": "University of Utah",
+        "name1": "Utah",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000022",
+        "accountName": "University of Virginia",
+        "name1": "Virginia",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000249",
+        "accountName": "University of Washington",
+        "name1": "Washington",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "University of West Florida",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000096",
+        "accountName": "University of Wisconsin-Madison",
+        "name1": "Wisconsin",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000219",
+        "accountName": "University of Wyoming",
+        "name1": "Wyoming",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000220",
+        "accountName": "Utah State University",
+        "name1": "Utah State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Valparaiso University",
+        "name1": "Valparaiso",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000273",
+        "accountName": "Vanderbilt University",
+        "name1": "Vanderbilt",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000058",
+        "accountName": "Villanova University",
+        "name1": "Villanova",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000290",
+        "accountName": "Virginia Military Institute",
+        "name1": "VMI",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000031",
+        "accountName": "Virginia Polytechnic Institute and State University",
+        "name1": "Virginia Tech",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Virginia Union University",
+        "name1": "Virginia Union",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000223",
+        "accountName": "Wagner College",
+        "name1": "Wagner",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000034",
+        "accountName": "Wake Forest University",
+        "name1": "Wake Forest",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000256",
+        "accountName": "Washington State University",
+        "name1": "Washington",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000069",
+        "accountName": "Weber State University",
+        "name1": "Weber State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000107",
+        "accountName": "West Virginia University",
+        "name1": "West Virginia",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000287",
+        "accountName": "Western Carolina University",
+        "name1": "Western Carolina",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000322",
+        "accountName": "Western Illinois University",
+        "name1": "Western Illinois",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000144",
+        "accountName": "Western Kentucky University",
+        "name1": "Western Kentucky",
+        "name2": "WKU",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000188",
+        "accountName": "Western Michigan University",
+        "name1": "",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Western New Mexico University",
+        "name1": "Western NM",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Western Oregon University",
+        "name1": "Western Oregon",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000125",
+        "accountName": "William & Mary",
+        "name1": "William & Mary",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "",
+        "accountName": "Winston-Salem State University",
+        "name1": "Winston-Salem State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000285",
+        "accountName": "Wofford College",
+        "name1": "Wofford",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000158",
+        "accountName": "Yale University",
+        "name1": "Yale",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    },
+    {
+        "teamID": "50000155",
+        "accountName": "Youngstown State University",
+        "name1": "Youngstown State",
+        "name2": "",
+        "name3": "",
+        "name4": "",
+        "name5": "",
+        "name6": ""
+    }
+]
