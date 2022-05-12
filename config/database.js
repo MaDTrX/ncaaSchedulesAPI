@@ -11,7 +11,7 @@ console.log(`Connected to MongoDB at ${db.host}:${db.port}`);
     const ref = require('./ReferenceTable.json');
     const ncaa = require('./Ncaa.json');
     const fetch = require('node-fetch');
-    const cheerio =  require('cheerio')
+    const cheerio = require('cheerio')
     const pretty = require('pretty')
     await Fbs.deleteMany({})
     await Fcs.deleteMany({})

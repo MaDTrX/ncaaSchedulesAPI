@@ -1,5 +1,6 @@
 
 const express = require('express')
+const cors = require('cors')
 
 require('./config/database.js')
 require('dotenv').config()
@@ -7,7 +8,7 @@ require('dotenv').config()
 const schedulesRouter = require('./routes/schedules.js')
 const app = express()
 
-
+app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: false }))
 
