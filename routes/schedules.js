@@ -5,6 +5,7 @@ const fbsCtrl = require('../controllers/fbs.js')
 
    
 router.get('/fcs', fcsCtrl.getFcs)
+router.get('/fcs/:confName', fcsCtrl.getConfSchools)
 router.get('/fbs', fbsCtrl.getFbs)
 // router.get('/fcs/:accountId', fcsCtrl.getFcsAccount())
 
