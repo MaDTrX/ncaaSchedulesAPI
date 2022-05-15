@@ -186,7 +186,6 @@ console.log(`Connected to MongoDB at ${db.host}:${db.port}`);
         }
     }
     
-    console.log(accountIdAndOrgId.length)
     
     for (var b = 0; b < accountIdAndOrgId.length; b++) {
         for (let key in reducedObjArray) {
