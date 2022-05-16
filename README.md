@@ -4,7 +4,7 @@
  - Ncaa Schedules API aims to gather and provided college sports schedules for developers to use
  - Getting accurate and always up to date 
  - beta version (football only)
- - 
+ 
 ## Technologies
  - CHEERIO
  - NODE
@@ -13,10 +13,10 @@
 
 ## Endpoints
   allSchedules
- -https://ncaaschedulesapi.herokuapp.com/
-  Football SubDivision ChampionShip
- -https://ncaaschedulesapi.herokuapp.com/fcs
-  FootBall Bowl SubDivision
+ -https://ncaaschedulesapi.herokuapp.com/   
+  Football SubDivision ChampionShip   
+ -https://ncaaschedulesapi.herokuapp.com/fcs   
+  FootBall Bowl SubDivision    
  -https://ncaaschedulesapi.herokuapp.com/fcs
  
  Schools by Conference
@@ -31,4 +31,3 @@
 -admin portal
 -data visualizations
 
-e.
