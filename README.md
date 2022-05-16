@@ -6,10 +6,10 @@
  - beta version (football only)
  
 ## Technologies
- - CHEERIO
- - NODE
+ - CHEERIO JS
+ - NODE JS
  - REST API
- - SPORTSDATA IO
+ - SPORTSDATA IO API
 
 ## Endpoints
   allSchedules
@@ -32,4 +32,5 @@
 -client business logis
 -admin portal
 -data visualizations
+-expanding to other college sports
 
