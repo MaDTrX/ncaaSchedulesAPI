@@ -32,7 +32,7 @@ async function getFcs() {
                     compEventName: str[0],
                     compEventDate: date + ", 2022",
                     compEventTime: $(el).next().text(),
-                    isNeutral: str[str.length - 1].includes('(') ? true : false
+                    isNeutral: str[str.length - 1].includes('(') ? 'VS.' : 'AT'
                 })
             })
         })
