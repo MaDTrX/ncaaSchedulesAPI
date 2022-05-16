@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-const fcsSchema = new Schema({
+const footballSchema = new Schema({
   schoolName: {type: String},
   accountID: {type: String},
   ncaaOrgID: {type: String},
@@ -15,10 +15,12 @@ const fcsSchema = new Schema({
   compEventDate: {type: String},
   compEventTime: {type: String},
   isNeutral: {type: Boolean},
+  requested: {type: Boolean},
+  booked: {type: Boolean},
+  mfb: {type: String},
 
 }, {
-  timestamps: true,
+  timestamps: true
 });
 
-
-module.exports = mongoose.model('fcs', fcsSchema);
+module.exports = mongoose.model('mfbSchedule', footballSchema);

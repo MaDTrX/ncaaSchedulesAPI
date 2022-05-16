@@ -1,16 +1,14 @@
 const express = require('express');
 const router = express.Router();
-const fcsCtrl = require('../controllers/fcs.js')
-const fbsCtrl = require('../controllers/fbs.js')
+const fbCtrl = require('../controllers/football.js')
 
    
-router.get('/fcs', fcsCtrl.getFcs)
-router.get('/fcs/:confName', fcsCtrl.getConfSchools)
-router.get('/fcs/comp/:schoolName', fcsCtrl.getSchoolComp)
-router.get('/fbs', fbsCtrl.getFbs)
-router.get('/fbs/:confName', fbsCtrl.getConfSchools)
-router.get('/fbs/comp/:schoolName', fbsCtrl.getSchoolComp)
-// router.get('/fcs/:accountId', fcsCtrl.getFcsAccount())
+
+router.get('/fcs', fbCtrl.getFcs)
+router.get('/fcs/:confName', fbCtrl.getFcsConfSchools)
+router.get('/fbs', fbCtrl.getFbs)
+router.get('/fbs/:confName', fbCtrl.getFbsConfSchools)
+router.get('/comp/:schoolName', fbCtrl.getSchoolComp)
 
 
 

@@ -2,8 +2,8 @@
 const express = require('express')
 const cors = require('cors')
 
-require('./config/database.js')
 require('dotenv').config()
+require('./config/database.js')
 
 const schedulesRouter = require('./routes/schedules.js')
 const app = express()
