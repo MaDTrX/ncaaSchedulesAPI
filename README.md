@@ -10,6 +10,7 @@
  - NODE JS
  - REST API
  - SPORTSDATA IO API
+ - MONGO DB
 
 ## Endpoints
   allSchedules
@@ -31,12 +32,6 @@
 
 ## Future updates
 - distance Matrix API
-
-- client business logis
-
-- admin portal
-
-- data visualizations
-
-- expanding to other college sports
+- team spirit schema
+- logos
 
