@@ -30,7 +30,10 @@
 
 ## Future updates
 -client business logis
+
 -admin portal
+
 -data visualizations
+
 -expanding to other college sports
 
