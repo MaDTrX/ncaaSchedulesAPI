@@ -12,7 +12,7 @@ const footballSchema = new Schema({
   opponentNcaaOrgID: {type: String},
   confName2: {type: String},
   confID2: {type: String},
-  compEventDate: {type: Date},
+  compEventDate: {type: String},
   compEventTime: {type: String},
   isNeutral: {type: String},
   requested: {type: Boolean},
