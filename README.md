@@ -13,29 +13,29 @@
 
 ## Endpoints
   allSchedules
- -https://ncaaschedulesapi.herokuapp.com/   
+ - https://ncaaschedulesapi.herokuapp.com/   
  
   Football SubDivision ChampionShip 
-  -https://ncaaschedulesapi.herokuapp.com/fcs   
+  - https://ncaaschedulesapi.herokuapp.com/fcs   
  
   FootBall Bowl SubDivision 
-  -https://ncaaschedulesapi.herokuapp.com/fcs
+  - https://ncaaschedulesapi.herokuapp.com/fcs
  
  Schools by Conference
- -https://ncaaschedulesapi.herokuapp.com/fcs/conferenceName
+ - https://ncaaschedulesapi.herokuapp.com/fcs/conferenceName
  
  Competions
- -https://ncaaschedulesapi.herokuapp.com/comp/SchoolName
+ - https://ncaaschedulesapi.herokuapp.com/comp/SchoolName
  
 
 ## Future updates
 - distance Matrix API
 
--client business logis
+- client business logis
 
--admin portal
+- admin portal
 
--data visualizations
+- data visualizations
 
--expanding to other college sports
+- expanding to other college sports
 
