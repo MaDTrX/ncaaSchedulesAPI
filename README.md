@@ -31,6 +31,7 @@
  
 
 ## Future updates
+- and post patch and delete routes
 - distance Matrix API
 - team spirit schema
 - logos
