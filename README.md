@@ -23,6 +23,7 @@
  
  Schools by Conference
  - https://ncaaschedulesapi.herokuapp.com/fcs/conferenceName
+ - https://ncaaschedulesapi.herokuapp.com/fbs/conferenceName
  
  Competions
  - https://ncaaschedulesapi.herokuapp.com/comp/SchoolName
