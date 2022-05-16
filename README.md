@@ -14,8 +14,10 @@
 ## Endpoints
   allSchedules
  -https://ncaaschedulesapi.herokuapp.com/   
+ 
   Football SubDivision ChampionShip   
  -https://ncaaschedulesapi.herokuapp.com/fcs   
+ 
   FootBall Bowl SubDivision    
  -https://ncaaschedulesapi.herokuapp.com/fcs
  
