@@ -1,6 +1,7 @@
 const Football = require('../models/football.js')
 
 module.exports = {
+    getAll,
     getFbs,
     getFcs,
     getFcsConfSchools,
@@ -8,21 +9,29 @@ module.exports = {
     getSchoolComp
 }
 
-function getFbs(req, res) {
-    Football.find({ mfb: "FBS" }, function (err, all) {
+function getAll(req, res) {
+    Football.find({}, function (err, all) {
         if (err) {
             res.send({ message: err })
         }
         res.send(all)
     })
 }
-
-function getFcs(req, res) {
-    Football.find({ mfb: "FCS" }, function (err, all) {
+function getFbs(req, res) {
+    Football.find({ mfb: "FBS" }, function (err, fbs) {
         if (err) {
             res.send({ message: err })
         }
-        res.send(all)
+        res.send(fbs)
+    })
+}
+
+function getFcs(req, res) {
+    Football.find({ mfb: "FCS" }, function (err, fcs) {
+        if (err) {
+            res.send({ message: err })
+        }
+        res.send(fcs)
     })
 }
 
