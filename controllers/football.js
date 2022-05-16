@@ -11,18 +11,18 @@ module.exports = {
 function getFbs(req, res) {
     Football.find({ mfb: "FBS" }, function (err, all) {
         if (err) {
-            res.json({ message: err })
+            res.send({ message: err })
         }
-        res.json(all)
+        res.send(all)
     })
 }
 
 function getFcs(req, res) {
     Football.find({ mfb: "FCS" }, function (err, all) {
         if (err) {
-            res.json({ message: err })
+            res.send({ message: err })
         }
-        res.json(all)
+        res.send(all)
     })
 }
 
@@ -45,7 +45,7 @@ function getFbsConfSchools(req, res) {
             }
         })
         const set = new Set(schools)
-        res.json([...set])
+        res.send([...set])
     })
 }
 
@@ -68,14 +68,14 @@ function getFcsConfSchools(req, res) {
             }
         })
         const set = new Set(schools)
-        res.json([...set])
+        res.send([...set])
     })
 }
 
 
 function getSchoolComp(req, res) {
     Football.find({ $or: [{ schoolName: req.params.schoolName }, { compEventName: req.params.schoolName }] }, (err, comp) => {
-        res.json(comp)
+        res.send(comp)
     })
 }
 
