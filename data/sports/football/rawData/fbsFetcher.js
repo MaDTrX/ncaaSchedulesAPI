@@ -28,7 +28,7 @@ async function getFbs() {
             homeId : batch[i].GlobalHomeTeamID.toString(),
             compEventTeam : batch[i].AwayTeamName,
             schoolTeam : batch[i].HomeTeamName,
-            compEventDate : months[new Date(date[0]).getMonth()] + ' ' + new Date(date[0]).getDate() + ', ' + new Date(date[0]).getFullYear() + '{' + days[new Date(date[0]).getDay()] + ')',
+            compEventDate : months[new Date(date[0]).getMonth()] + ' ' + new Date(date[0]).getDate() + ', ' + new Date(date[0]).getFullYear() + ' (' + days[new Date(date[0]).getDay()] + ')',
             compEventTime : militaryTime === 'Time TBA' ? militaryTime : newTime,
             isNeutral : batch[i].NeutralVenue? 'VS.' : 'AT',
         })
