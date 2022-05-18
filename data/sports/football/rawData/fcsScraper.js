@@ -32,7 +32,8 @@ async function getFcs() {
                     booked: false,
                     schoolName: str[str.length - 1],
                     compEventName: str[0],
-                    compEventDate: dateArray[1] + ' ' + dateArray[2] + ", 2022 " + '(' + day[0] + ')',
+                    compEventDate: dateArray[1] + ' ' + dateArray[2] + ", 2022 ",
+                    compEventDay : day[0],
                     compEventTime: $(el).next().text(),
                     isNeutral: str[str.length - 1].includes('(in') ? 'VS.' : 'AT'
                 })
