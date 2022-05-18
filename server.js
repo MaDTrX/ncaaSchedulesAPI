@@ -4,6 +4,7 @@ const cors = require('cors')
 
 require('dotenv').config()
 require('./config/database.js')
+
 const corsOptions = {
     origin: true,
     optionsSuccessStatus: 200 

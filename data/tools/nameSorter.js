@@ -7,6 +7,7 @@ async function sortNameValues(rawData) {
             mapSchoolName[roughData[i].schoolName] = ''
             mapSchoolName[roughData[i].compEventName] = ''
         }
+        
         for (let j = 0; j < references.length; j++) {
             for (key in references[j]) {
                 if (mapSchoolName[references[j][key]] !== undefined) {
