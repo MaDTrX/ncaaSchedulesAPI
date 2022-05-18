@@ -17,6 +17,7 @@ async function getFcs() {
         $('.spring').each((i, el) => {
             let date = $(el).prev().text()
             let dateArray = date.split(' ')
+            let day = dateArray[0].split(',')
             $(el).find('.spring1').each((i, el) => {
                 let str = []
                 if (pretty($(el).text()).includes(' at ')) {
@@ -31,7 +32,7 @@ async function getFcs() {
                     booked: false,
                     schoolName: str[str.length - 1],
                     compEventName: str[0],
-                    compEventDate: dateArray[1] + dateArray[2] + ", 2022" + '(' + dateArray[0] + ')',
+                    compEventDate: dateArray[1] + ' ' + dateArray[2] + ", 2022 " + '(' + day[0] + ')',
                     compEventTime: $(el).next().text(),
                     isNeutral: str[str.length - 1].includes('(in') ? 'VS.' : 'AT'
                 })
