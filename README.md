@@ -1,7 +1,7 @@
 # ncaaSchedulesAPI
 
 ## Description
- - Ncaa Schedules API aims to gather and provided college sports schedules for developers to use
+ - Ncaa Schedules API aims to gather and provide college sports schedules for developers to use
  - Getting accurate and always up to date 
  - beta version (football only)
  
@@ -33,6 +33,6 @@
 ## Future updates
 - add post patch and delete routes
 - distance Matrix API
-- team spirit schema
+- team colors
 - logos
 
